@@ -36,6 +36,9 @@ The hardware setup for this system is pretty simple and straight forward:
 
 -Code and explanations:
 
+<img width="531" alt="screen shot 2017-02-06 at 17 14 47" src="https://cloud.githubusercontent.com/assets/9398437/22673643/41721e82-ec90-11e6-97cc-b080013b5bd9.png">
+<img width="530" alt="screen shot 2017-02-06 at 17 14 59" src="https://cloud.githubusercontent.com/assets/9398437/22673664/5cf09bfc-ec90-11e6-9f81-d86b2ad382a0.png">
+
 
 
 -Future Modification
