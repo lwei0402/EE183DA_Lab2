@@ -20,6 +20,8 @@ Power Supply or Laptop
 
 -Hardware Setup:
 
+<img width="587" alt="screen shot 2017-02-06 at 17 20 43" src="https://cloud.githubusercontent.com/assets/9398437/22673724/ae4b3624-ec90-11e6-9fd3-4c1a238c7396.png">
+
 The hardware setup for this system is pretty simple and straight forward:
 1-Put MCU on top of the motor shield (Be aware of direction of the MCU)
 2-Tape chopstick onto the Servo
